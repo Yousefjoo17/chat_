@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "9dfH5L3YvtOPk4XRnj0t++Yk2j4nkNoBssw0CtGYxTQ=",
+  "Source": "chat_backend",
+  "BasePath": "_content/chat_backend",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
